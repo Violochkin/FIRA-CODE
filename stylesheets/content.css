@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+}
+
+@font-face {
+  font-family: "FiraCode";
+  src: url("../fonts/FiraCode-Bold.ttf") format("truetype");
+  font-style: Bold;
+  font-weight: bold;
+}
+
+p{
+    font-family: 'FiraCode';
+}
+
+body {
+    font-family: 'Fira Code', monospace;
+  }

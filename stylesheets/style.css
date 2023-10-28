@@ -1,0 +1,219 @@
+.header {
+    width: 100%;
+    height: 1055px;
+    flex-shrink: 0;
+}
+
+.piano {
+    width: 100%;
+    height: 100%;
+    margin-top: -10px;
+}
+
+.titul {
+    width: 100%;
+    height: 100%;
+    margin-top: 421px;
+}
+
+.royal {
+    width: 100%;
+    height: 100%;
+    margin-top: -250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firacode{
+    margin-left: 610px;
+    margin-top: -950px;
+    height: 100.009px;
+    flex-shrink: 0;
+    color: #ffffff;
+    font-family: Fira Code;
+    font-size: 101.029px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.firacode111{
+    position: absolute;
+    width: 770px;
+    height: 191px;
+    left: 200px;
+    top: 1625px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.firacode222{
+    position: absolute;
+    width: 770px;
+    height: 191px;
+    left: 760px;
+    top: 2200px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.podik{
+    width: 95%;
+    height: 100%;
+    margin-top: -150px;
+    margin-left: 90px;
+    margin-right: 200px;
+}
+
+.firacode333{
+    position: absolute;
+    width: 730px;
+    left: 690px;
+    top: 5450px;
+    font-family: 'Fira Code';
+    font-size: 24px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.bukva{
+    width: 85%;
+    height: 85%;
+    margin-top: 60px;
+    margin-left: 160px;
+    margin-right: auto;
+}
+
+.obvodka{
+    width: 100%;
+    height: 100%;
+    margin-top: -300px;
+}
+
+.rose{
+    width: 100%;
+    height: 100%;
+    margin-top: -502px;
+}
+
+.gitara1{
+    width: 68%;
+    height: 100%;
+    margin-top: -2665px;
+    margin-left: 430px;
+}
+
+.hayp{
+    width: 70%;
+    height: 100%;
+    margin-top: -100px;
+    margin-left: 280px;
+}
+
+.firacode444{
+    position: absolute;
+    width: 750px;
+    left: -40px;
+    top: 11580px;
+    font-family: 'Fira Code';
+    font-size: 30px;
+    line-height: 50px;
+    color: #ffffff;
+}
+
+.firacode555{
+    position: absolute;
+    width: 750px;
+    left: -40px;
+    top: 12270px;
+    font-family: 'Fira Code';
+    font-size: 30px;
+    line-height: 50px;
+    color: #000000;
+}
+
+.firacode666{
+    position: absolute;
+    width: 750px;
+    left: -40px;
+    top: 13100px;
+    font-family: 'Fira Code';
+    font-size: 30px;
+    line-height: 50px;
+    color: #ffffff;
+}
+
+.provod{
+    width: 50%;
+    height: 100%;
+    margin-top: -10350px;
+    margin-left: -10px;
+}
+
+.notka{
+    width: 95%;
+    height: 100%;
+    margin-top: 2000px;
+    margin-left: 380px;
+}
+
+.lalala{
+    width: 100%;
+    height: 100%;
+    margin-top: 3000px;
+    margin-left: 330px;
+}
+
+.kolonka{
+    width: 115%;
+    height: 100%;
+    margin-top: 55px;
+    margin-left: 90px;
+}
+
+.znak{
+    width: 80%;
+    height: 100%;
+    margin-top: -3000px;
+    margin-left: 10px;
+}
+
+.all{
+    width: 153%;
+    height: 100%;
+    margin-top: 1650px;
+    margin-left: -100px;
+}
+
+.viola{
+    width: 75%;
+    height: 100%;
+    margin-top: -400px;
+    margin-left: -10px;
+}
+
+.poka{
+    width: 100%;
+    height: 100%;
+    margin-top: -463px;
+    margin-left: 245px;
+}
+
+.vsee{
+    position: absolute;
+    width: 750px;
+    left: 500px;
+    top: 15410px;
+    font-family: 'Fira Code';
+    font-size: 30px;
+    line-height: 50px;
+    color: #ffffff;
+}
